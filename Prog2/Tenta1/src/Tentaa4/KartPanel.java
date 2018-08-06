@@ -1,4 +1,4 @@
-package Tenta4;
+package Tentaa4;
 
 import javax.swing.*;
 import java.awt.*;
